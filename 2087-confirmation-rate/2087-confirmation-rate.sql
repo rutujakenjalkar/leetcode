@@ -1,0 +1,1 @@
+select signups.user_id ,round(ifnull(sum(action="confirmed" or action="null")/count(Confirmations.action),0),2) as confirmation_rate from Signups left join Confirmations on Signups.user_id=Confirmations.user_id group by signups.user_id;
