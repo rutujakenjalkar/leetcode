@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/rutujakenjalkar/leetcode/tree/master/0197-rising-temperature) |
+| [1161-project-employees-i](https://github.com/rutujakenjalkar/leetcode/tree/master/1161-project-employees-i) |
 | [1415-students-and-examinations](https://github.com/rutujakenjalkar/leetcode/tree/master/1415-students-and-examinations) |
 | [1801-average-time-of-process-per-machine](https://github.com/rutujakenjalkar/leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [2087-confirmation-rate](https://github.com/rutujakenjalkar/leetcode/tree/master/2087-confirmation-rate) |
