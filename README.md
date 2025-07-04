@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0197-rising-temperature](https://github.com/rutujakenjalkar/leetcode/tree/master/0197-rising-temperature) |
 | [0596-classes-with-at-least-5-students](https://github.com/rutujakenjalkar/leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0619-biggest-single-number](https://github.com/rutujakenjalkar/leetcode/tree/master/0619-biggest-single-number) |
+| [1135-customers-who-bought-all-products](https://github.com/rutujakenjalkar/leetcode/tree/master/1135-customers-who-bought-all-products) |
 | [1161-project-employees-i](https://github.com/rutujakenjalkar/leetcode/tree/master/1161-project-employees-i) |
 | [1317-monthly-transactions-i](https://github.com/rutujakenjalkar/leetcode/tree/master/1317-monthly-transactions-i) |
 | [1338-queries-quality-and-percentage](https://github.com/rutujakenjalkar/leetcode/tree/master/1338-queries-quality-and-percentage) |
