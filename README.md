@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rutujakenjalkar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/rutujakenjalkar/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rutujakenjalkar/leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/rutujakenjalkar/leetcode/tree/master/0189-rotate-array) |
 | [2058-concatenation-of-array](https://github.com/rutujakenjalkar/leetcode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rutujakenjalkar/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rutujakenjalkar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/rutujakenjalkar/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/rutujakenjalkar/leetcode/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rutujakenjalkar/leetcode/tree/master/0014-longest-common-prefix) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/rutujakenjalkar/leetcode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
