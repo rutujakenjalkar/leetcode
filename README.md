@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rutujakenjalkar/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rutujakenjalkar/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/rutujakenjalkar/leetcode/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/rutujakenjalkar/leetcode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rutujakenjalkar/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rutujakenjalkar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/rutujakenjalkar/leetcode/tree/master/0136-single-number) |
@@ -122,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/rutujakenjalkar/leetcode/tree/master/0238-product-of-array-except-self) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/rutujakenjalkar/leetcode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/rutujakenjalkar/leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
