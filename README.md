@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/rutujakenjalkar/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/rutujakenjalkar/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/rutujakenjalkar/leetcode/tree/master/0189-rotate-array) |
+| [1013-fibonacci-number](https://github.com/rutujakenjalkar/leetcode/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -128,8 +129,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/rutujakenjalkar/leetcode/tree/master/0055-jump-game) |
+| [1013-fibonacci-number](https://github.com/rutujakenjalkar/leetcode/tree/master/1013-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/rutujakenjalkar/leetcode/tree/master/0055-jump-game) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rutujakenjalkar/leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rutujakenjalkar/leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
