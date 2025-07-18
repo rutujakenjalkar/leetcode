@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rutujakenjalkar/leetcode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/rutujakenjalkar/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/rutujakenjalkar/leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/rutujakenjalkar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/rutujakenjalkar/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/rutujakenjalkar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/rutujakenjalkar/leetcode/tree/master/0136-single-number) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/rutujakenjalkar/leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/rutujakenjalkar/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## String
 |  |
 | ------- |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/rutujakenjalkar/leetcode/tree/master/1013-fibonacci-number) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/rutujakenjalkar/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
