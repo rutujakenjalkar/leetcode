@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rutujakenjalkar/leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/rutujakenjalkar/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rutujakenjalkar/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rutujakenjalkar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/rutujakenjalkar/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/rutujakenjalkar/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rutujakenjalkar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/rutujakenjalkar/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/rutujakenjalkar/leetcode/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/rutujakenjalkar/leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rutujakenjalkar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rutujakenjalkar/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rutujakenjalkar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
