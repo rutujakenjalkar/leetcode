@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/rutujakenjalkar/leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/rutujakenjalkar/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rutujakenjalkar/leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/rutujakenjalkar/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rutujakenjalkar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rutujakenjalkar/leetcode/tree/master/0283-move-zeroes) |
 | [2058-concatenation-of-array](https://github.com/rutujakenjalkar/leetcode/tree/master/2058-concatenation-of-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/rutujakenjalkar/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/rutujakenjalkar/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/rutujakenjalkar/leetcode/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/rutujakenjalkar/leetcode/tree/master/0217-contains-duplicate) |
 | [0290-word-pattern](https://github.com/rutujakenjalkar/leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rutujakenjalkar/leetcode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rutujakenjalkar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rutujakenjalkar/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/rutujakenjalkar/leetcode/tree/master/0217-contains-duplicate) |
 ## Counting
 |  |
 | ------- |
