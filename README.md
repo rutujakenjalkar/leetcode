@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rutujakenjalkar/leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rutujakenjalkar/leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/rutujakenjalkar/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/rutujakenjalkar/leetcode/tree/master/0283-move-zeroes) |
 | [2058-concatenation-of-array](https://github.com/rutujakenjalkar/leetcode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rutujakenjalkar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/rutujakenjalkar/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/rutujakenjalkar/leetcode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/rutujakenjalkar/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rutujakenjalkar/leetcode/tree/master/0344-reverse-string) |
 ## Bit Manipulation
 |  |
