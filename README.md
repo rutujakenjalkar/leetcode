@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/rutujakenjalkar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rutujakenjalkar/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/rutujakenjalkar/leetcode/tree/master/0414-third-maximum-number) |
+| [0792-binary-search](https://github.com/rutujakenjalkar/leetcode/tree/master/0792-binary-search) |
 | [1217-relative-sort-array](https://github.com/rutujakenjalkar/leetcode/tree/master/1217-relative-sort-array) |
 | [2058-concatenation-of-array](https://github.com/rutujakenjalkar/leetcode/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/rutujakenjalkar/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rutujakenjalkar/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rutujakenjalkar/leetcode/tree/master/0162-find-peak-element) |
+| [0792-binary-search](https://github.com/rutujakenjalkar/leetcode/tree/master/0792-binary-search) |
 ## String
 |  |
 | ------- |
