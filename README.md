@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rutujakenjalkar/leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/rutujakenjalkar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/rutujakenjalkar/leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/rutujakenjalkar/leetcode/tree/master/0414-third-maximum-number) |
 | [2058-concatenation-of-array](https://github.com/rutujakenjalkar/leetcode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rutujakenjalkar/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rutujakenjalkar/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rutujakenjalkar/leetcode/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/rutujakenjalkar/leetcode/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
