@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rutujakenjalkar/leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/rutujakenjalkar/leetcode/tree/master/0231-power-of-two) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rutujakenjalkar/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/rutujakenjalkar/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/rutujakenjalkar/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/rutujakenjalkar/leetcode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/rutujakenjalkar/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/rutujakenjalkar/leetcode/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/rutujakenjalkar/leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/rutujakenjalkar/leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/rutujakenjalkar/leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
