@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/rutujakenjalkar/leetcode/tree/master/0414-third-maximum-number) |
 | [0792-binary-search](https://github.com/rutujakenjalkar/leetcode/tree/master/0792-binary-search) |
 | [1217-relative-sort-array](https://github.com/rutujakenjalkar/leetcode/tree/master/1217-relative-sort-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rutujakenjalkar/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [2058-concatenation-of-array](https://github.com/rutujakenjalkar/leetcode/tree/master/2058-concatenation-of-array) |
 ## Simulation
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rutujakenjalkar/leetcode/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/rutujakenjalkar/leetcode/tree/master/0414-third-maximum-number) |
 | [1217-relative-sort-array](https://github.com/rutujakenjalkar/leetcode/tree/master/1217-relative-sort-array) |
+| [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/rutujakenjalkar/leetcode/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 ## Counting
 |  |
 | ------- |
